@@ -226,6 +226,10 @@ img {
     padding: 10px 0;
   }
 
+  .aboutme .name {
+    font-size: 40px;
+  }
+
   .skill {
     grid-template-columns: repeat(1, 1fr);
     row-gap: 50px;
