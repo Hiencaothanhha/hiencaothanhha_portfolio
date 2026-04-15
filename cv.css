@@ -227,7 +227,11 @@ img {
   }
 
   .aboutme .name {
-    font-size: 40px;
+    font-size: 30px;
+  }
+
+  .aboutme .date {
+    font-size: 20px;
   }
 
   .skill {
